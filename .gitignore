@@ -1,0 +1,16 @@
+/vendor
+/node_modules
+Homestead.yaml
+Homestead.json
+.env
+.idea
+/.metadata
+/.settings
+.buildpath
+.project
+/public/gambar
+
+_ide_helper.php
+
+.phpstorm.meta.php
+storage/settings.json
